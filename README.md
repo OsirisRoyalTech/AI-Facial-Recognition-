@@ -9,3 +9,5 @@ pip install opencv-python face_recognition pyttsx3 <br />
 o	The user will have to provide a reference image of their face. <br />
 o	When they try to access the laptop, the script will capture an image of their face via the webcam and compare it to the stored reference image. <br />
 o	If the face matches, the script will allow access; otherwise, it will deny access.
+
+For educational purposes only
